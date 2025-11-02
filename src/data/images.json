@@ -1,0 +1,8 @@
+[
+  { "id": 1, "url": "/images/photo1.jpeg", "title": "Yesterday" },
+  { "id": 2, "url": "/images/photo2.jpeg", "title": "Today" },
+  { "id": 3, "url": "/images/photo3.jpeg", "title": "Tomorrow" }
+]
+
+
+
